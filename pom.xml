@@ -216,7 +216,7 @@
 		</executions>
 	    </plugin>
         </plugins>
-		<finalName>sampleapp</finalName>
+		<finalName>sampleappwar</finalName>
     </build>  
     <reporting>
     <plugins>
@@ -420,7 +420,7 @@
                         <dependencies>
                             <dependency>
                                 <groupId>com.devopsdemo.tutorial</groupId>
-                                <artifactId>sampleapp</artifactId>
+                                <artifactId>sampleappwar</artifactId>
                                 <version>${project.version}</version>
                             </dependency>
                         </dependencies>
